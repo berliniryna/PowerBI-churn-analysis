@@ -1,4 +1,4 @@
-# 📊 E-commerce Customer Segmentation 2026: Power BI Dashboard
+# E-commerce Customer Segmentation 2026: Power BI Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 
